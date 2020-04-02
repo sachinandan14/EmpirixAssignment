@@ -117,5 +117,69 @@ public class TestBase {
 	
 		
 	}
+	
+	
+	public static void initialize(String browser) {
+	//	String browser=prop.getProperty("Browser");
+
+	       String path=System.getProperty("user.dir");
+		//switch(browser.toLowerCase()) {
+		if(browser.equalsIgnoreCase("chrome")) {
+		//case "chrome":
+			
+
+		        System.setProperty("webdriver.chrome.driver", path+"/driver/chromedriver.exe");
+		        
+		        //Instantiating driver object
+		        driver = new ChromeDriver();
+		        
+		      //  break;
+		}
+		else if (browser.equalsIgnoreCase("firefox")) {
+			
+		
+		
+//	case "firefox":
+		
+
+	       
+	       System.setProperty("webdriver.gecko.driver", path+"/driver/geckodriver.exe");
+	       DesiredCapabilities capabilities = DesiredCapabilities.firefox();
+	       capabilities.setCapability("marionette",true);
+	     //  driver= new FirefoxDriver(capabilities);
+			driver = new FirefoxDriver();
+	        
+	        //Instantiating driver object
+		//	break;
+			
+		}else
+		{
+			
+	//case "edge":	
+			
+		
+		
+		// OperaOptions options = new OperaOptions();
+	      //  options.setBinary("C:\\Program Files\\Opera\\56.0.3051.43\\opera.exe");
+				//set path to Edge.exe
+				System.setProperty("webdriver.edge.driver",path+"/driver/MicrosoftWebDriver.exe");
+				//create Edge instance
+				driver = new EdgeDriver();
+			
+		}
+		
+			
+			
+	
+		driver.manage().window().maximize();
+        driver.manage().deleteAllCookies();
+        driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
+        driver.get(prop.getProperty("Url"));
+		
+	
+		
+	}
+
+}
 
 }
