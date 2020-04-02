@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample Test Suite" thread-count="4" parallel="tests" >
+  <test name="Method Test Cases" >
+    <classes>
+       <class name="Tests.LoginTests">
+        <methods>
+        <include name="loginTest" />
+        <include name="switchProfileLanguageTest" />
+          <include name="verifyClientDetailsTest" />
+            <include name="verifyAllTabsTest" />
+      </methods>
+       </class>
+    </classes>
+  </test>
+</suite>

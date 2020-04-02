@@ -1,0 +1,200 @@
+23:56:28,532  INFO Tests.Login<strong>{1}</strong>:57 - *********************Logged into home page****************************
+14:12:43,919  INFO Tests.Login<strong>{1}</strong>:57 - *********************Logged into home page****************************
+15:50:27,080  INFO Tests.Login<strong>{1}</strong>:97 - Client details are displyed properly
+21:24:16,368  INFO Tests.Login<strong>{1}</strong>:97 - Client details are displyed properly
+23:18:08,179  INFO Tests.Login<strong>{1}</strong>:113 - All tabs are accessible properly if English is selected
+23:35:45,160  INFO Tests.Login<strong>{1}</strong>:113 - All tabs are accessible properly if English is selected
+23:40:40,732  INFO Tests.Login<strong>{1}</strong>:123 - All tabs are accessible properly if Japanese is selected
+23:43:04,202  INFO Tests.Login<strong>{1}</strong>:113 - All tabs are accessible properly if English is selected
+23:50:44,974  INFO Tests.Login<strong>{1}</strong>:113 - All tabs are accessible properly if English is selected
+23:54:56,004  INFO Tests.Login<strong>{1}</strong>:123 - All tabs are accessible properly if Japanese is selected
+00:01:08,917  INFO Tests.Login<strong>{1}</strong>:113 - All tabs are accessible properly if English is selected
+00:02:19,449  INFO Tests.Login<strong>{1}</strong>:123 - All tabs are accessible properly if Japanese is selected
+00:12:05,213  INFO Tests.Login<strong>{1}</strong>:113 - All tabs are accessible properly if English is selected
+00:22:14,216  INFO Tests.Login<strong>{1}</strong>:115 - All tabs are accessible properly if English is selected
+00:23:27,717  INFO Tests.Login<strong>{1}</strong>:125 - All tabs are accessible properly if Japanese is selected
+00:32:22,259  INFO Tests.Login<strong>{1}</strong>:115 - All tabs are accessible properly if English is selected
+00:33:35,845  INFO Tests.Login<strong>{1}</strong>:125 - All tabs are accessible properly if Japanese is selected
+12:56:41,207  INFO Tests.Login<strong>{1}</strong>:62 - *********************Logged into home page****************************
+13:05:09,813  INFO Tests.Login<strong>{1}</strong>:62 - *********************Logged into home page****************************
+13:31:05,237  INFO Tests.Login<strong>{1}</strong>:62 - *********************Logged into home page****************************
+13:34:51,330  INFO Tests.Login<strong>{1}</strong>:80 - English is accessible
+13:34:51,332  INFO Tests.Login<strong>{1}</strong>:82 - japanese is accessible
+13:36:57,632  INFO Tests.Login<strong>{1}</strong>:99 - Client details are displyed properly
+13:51:55,022  INFO Tests.Login<strong>{1}</strong>:116 - All tabs are accessible properly if English is selected
+13:53:07,710  INFO Tests.Login<strong>{1}</strong>:126 - All tabs are accessible properly if Japanese is selected
+13:56:24,251  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (8cd22ce43254bbad2f025322da0e324c)] -> xpath: //input[@name='callback_2']]
+13:57:04,269  INFO Tests.Login<strong>{1}</strong>:62 - *********************Logged into home page****************************
+14:58:13,284  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (961891cf96a7ffe7564aecda2b276242)] -> xpath: //input[@name='callback_2']]
+14:58:53,303  INFO Tests.Login<strong>{1}</strong>:62 - *********************Logged into home page****************************
+15:09:52,511  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (1e9e6fe19efd9e31fb03f77dbbea2da6)] -> xpath: //input[@name='callback_2']]
+15:10:32,527  INFO Tests.Login<strong>{1}</strong>:63 - *********************Logged into home page****************************
+15:25:06,424  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (93e3daf8d3d91df32b77d748b80eec9d)] -> xpath: //input[@name='callback_2']]
+15:25:46,442  INFO Tests.Login<strong>{1}</strong>:63 - *********************Logged into home page****************************
+15:28:07,523  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (8829cc53731bed644d547c6b77b8162e)] -> xpath: //input[@name='callback_2']]
+15:28:47,541  INFO Tests.Login<strong>{1}</strong>:63 - *********************Logged into home page****************************
+15:35:05,373  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e3a3de63f42622247856651046e294c9)] -> xpath: //input[@name='callback_2']]
+15:35:45,394  INFO Tests.Login<strong>{1}</strong>:63 - *********************Logged into home page****************************
+15:39:54,392  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a47fb1d3753b6aabf8dda6901f256411)] -> xpath: //input[@name='callback_2']]
+15:40:34,446  INFO Tests.Login<strong>{1}</strong>:60 - *********************Logged into home page****************************
+15:43:53,064  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (840beac6e9228c50b92fafb6f2d2a87b)] -> xpath: //input[@name='callback_2']]
+15:44:33,118  INFO Tests.Login<strong>{1}</strong>:60 - *********************Logged into home page****************************
+15:54:25,275  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (8bb0d00885f4fb250052ae31bb6c2de9)] -> xpath: //input[@name='callback_2']]
+15:55:05,312  INFO Tests.Login<strong>{1}</strong>:62 - *********************Logged into home page****************************
+16:01:14,071  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (139bf7fcabbb2272f5abc27bc880c276)] -> xpath: //input[@name='callback_2']]
+16:01:54,092  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+16:07:05,015  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (dd90b946737402afabfc122882bea953)] -> xpath: //input[@name='callback_2']]
+16:07:45,034  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+16:14:26,301  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (92397dae335910e36cb776253db4342b)] -> xpath: //input[@name='callback_2']]
+16:15:06,321  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+16:17:15,064  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (8ed839aed80e3ad4615f8958170bdf48)] -> xpath: //input[@name='callback_2']]
+16:17:59,465  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (8ed839aed80e3ad4615f8958170bdf48)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+16:18:59,962  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //input[@name='callback_2']]
+16:20:05,401  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+16:20:10,477  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+16:20:15,824  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[@href='/alerts' and text()='Alerts']]
+16:20:21,092  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[@href='/tests' and text()='Tests']]
+16:20:26,242  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[@href='/variables' and text()='Variables']]
+16:20:31,424  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[@href='/notifi' and text()='Notifications']]
+16:20:36,476  INFO Tests.Login<strong>{1}</strong>:108 - All tabs are accessible properly if English is selected
+16:20:52,726  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b24b4e5dcf1193b69c74d373030cdff4)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+16:21:58,087  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (0ac715e1981f501fc970c58cd4a8e7f0)] -> xpath: //input[@name='callback_2']]
+16:25:01,316  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (1cd8647abb778c193ceb8f13358aa419)] -> xpath: //input[@name='callback_2']]
+16:25:41,337  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+16:27:38,568  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ddbc35c2cb41a31774b4061ede0d0ed5)] -> xpath: //input[@name='callback_2']]
+16:28:18,920  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ddbc35c2cb41a31774b4061ede0d0ed5)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+16:29:52,873  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (562259bce6ae29cdcfe562df07dedf19)] -> xpath: //input[@name='callback_2']]
+16:30:34,049  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (562259bce6ae29cdcfe562df07dedf19)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+16:30:34,180  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (562259bce6ae29cdcfe562df07dedf19)] -> xpath: //a[@href='/client']]
+16:30:36,038  INFO Tests.Login<strong>{1}</strong>:91 - Client details are displyed properly
+16:31:54,965  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //input[@name='callback_2']]
+16:33:05,976  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+16:33:11,182  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+16:33:16,393  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[@href='/alerts' and text()='Alerts']]
+16:33:21,683  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[@href='/tests' and text()='Tests']]
+16:33:26,965  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[@href='/variables' and text()='Variables']]
+16:33:32,243  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[@href='/notifi' and text()='Notifications']]
+16:33:37,381  INFO Tests.Login<strong>{1}</strong>:108 - All tabs are accessible properly if English is selected
+16:33:40,703  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (61b76a2154fc29150cc5b936cc6b94a7)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+20:14:48,915  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b50bb9eae072a8ea2719266e89b9fb4b)] -> xpath: //input[@name='callback_2']]
+20:15:28,993  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+20:17:29,827  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a530a245bc596941d23fa0e3e1b3d984)] -> xpath: //input[@name='callback_2']]
+20:18:10,259  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a530a245bc596941d23fa0e3e1b3d984)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+20:19:28,545  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (faa2c191d978e14104413d9a4e0e7edb)] -> xpath: //input[@name='callback_2']]
+20:20:09,833  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (faa2c191d978e14104413d9a4e0e7edb)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+20:20:10,081  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (faa2c191d978e14104413d9a4e0e7edb)] -> xpath: //a[@href='/client']]
+20:20:13,605  INFO Tests.Login<strong>{1}</strong>:91 - Client details are displyed properly
+20:22:03,217  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //input[@name='callback_2']]
+20:23:08,899  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+20:23:14,135  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+20:23:19,331  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[@href='/alerts' and text()='Alerts']]
+20:23:24,721  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[@href='/tests' and text()='Tests']]
+20:23:30,069  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[@href='/variables' and text()='Variables']]
+20:23:35,473  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[@href='/notifi' and text()='Notifications']]
+20:23:40,542  INFO Tests.Login<strong>{1}</strong>:108 - All tabs are accessible properly if English is selected
+20:23:43,925  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (eb8107152a9a710654615626abc1a3d3)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+20:25:29,216  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (496737614489ec1f7d97fd293bfd9f4c)] -> xpath: //input[@name='callback_2']]
+20:26:09,242  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+20:27:48,408  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (6409ef229eef06f8f20cf161977484ca)] -> xpath: //input[@name='callback_2']]
+20:32:37,878  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (aacb552f342c891112dac93e70fa0a70)] -> xpath: //input[@name='callback_2']]
+20:33:28,206  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (aacb552f342c891112dac93e70fa0a70)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:04:05,274  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ae55867874f359a6f83abee990eb188d)] -> xpath: //input[@name='callback_2']]
+21:08:07,631  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a7a30e4f683a4470bdf405d81f368422)] -> xpath: //input[@name='callback_2']]
+21:08:09,132  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a7a30e4f683a4470bdf405d81f368422)] -> xpath: //input[@name='callback_2']]
+21:08:09,985  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a7a30e4f683a4470bdf405d81f368422)] -> xpath: //input[@name='callback_2']]
+21:08:10,298  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (a7a30e4f683a4470bdf405d81f368422)] -> xpath: //input[@name='callback_2']]
+21:08:49,143  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+21:12:53,383  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (227a202d1c171d3696457244d75aca80)] -> xpath: //input[@name='callback_2']]
+21:12:55,320  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (227a202d1c171d3696457244d75aca80)] -> xpath: //input[@name='callback_2']]
+21:12:55,995  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (227a202d1c171d3696457244d75aca80)] -> xpath: //input[@name='callback_2']]
+21:12:56,343  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (227a202d1c171d3696457244d75aca80)] -> xpath: //input[@name='callback_2']]
+21:13:34,660  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (227a202d1c171d3696457244d75aca80)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:13:34,856  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (227a202d1c171d3696457244d75aca80)] -> xpath: //a[@href='/client']]
+21:13:35,999  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+21:15:03,250  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (03a125be4d8470454e20967eef9468f1)] -> xpath: //input[@name='callback_2']]
+21:15:43,268  INFO Tests.Login<strong>{1}</strong>:54 - *********************Logged into home page****************************
+21:16:40,890  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (fc633626cadab82a55b8698ccc018325)] -> xpath: //input[@name='callback_2']]
+21:19:32,563  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (33c563bb806a67b96457127180ea0d43)] -> xpath: //input[@name='callback_2']]
+21:20:13,897  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (33c563bb806a67b96457127180ea0d43)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:20:14,125  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (33c563bb806a67b96457127180ea0d43)] -> xpath: //a[@href='/client']]
+21:20:16,836  INFO Tests.Login<strong>{1}</strong>:91 - Client details are displyed properly
+21:21:24,185  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //input[@name='callback_2']]
+21:22:29,943  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+21:22:35,128  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+21:22:40,567  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[@href='/alerts' and text()='Alerts']]
+21:22:46,082  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[@href='/tests' and text()='Tests']]
+21:22:51,353  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[@href='/variables' and text()='Variables']]
+21:22:56,687  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[@href='/notifi' and text()='Notifications']]
+21:23:01,841  INFO Tests.Login<strong>{1}</strong>:108 - All tabs are accessible properly if English is selected
+21:23:05,249  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ff46107f1e7af7a558be819c8dc0bf4f)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:35:16,441  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (d4f9ab81fcb63e0de99a359eb54443c3)] -> xpath: //input[@name='callback_2']]
+21:35:56,451  INFO Tests.Login<strong>{1}</strong>:56 - *********************Logged into home page****************************
+21:37:31,936  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (d73c02d5cc955c2717dd505c17534f9c)] -> xpath: //input[@name='callback_2']]
+21:38:22,311  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (d73c02d5cc955c2717dd505c17534f9c)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:39:17,325  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //input[@name='callback_2']]
+21:40:22,966  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+21:40:28,205  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+21:40:33,688  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[@href='/alerts' and text()='Alerts']]
+21:40:39,002  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[@href='/tests' and text()='Tests']]
+21:40:44,365  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[@href='/variables' and text()='Variables']]
+21:40:49,801  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[@href='/notifi' and text()='Notifications']]
+21:40:54,948  INFO Tests.Login<strong>{1}</strong>:110 - All tabs are accessible properly if English is selected
+21:40:58,158  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (e5fbb6879824be6f517361f3ae1e3542)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:42:54,340  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (63ae012eb440259aadae7d66ef682a7c)] -> xpath: //input[@name='callback_2']]
+21:46:18,150  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (29f63ef7e51a26e727ffda622e0b1ac3)] -> xpath: //input[@name='callback_2']]
+21:46:58,172  INFO Tests.Login<strong>{1}</strong>:56 - *********************Logged into home page****************************
+21:49:03,144  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ec939bd7f56a30e2dea936a20005936b)] -> xpath: //input[@name='callback_2']]
+21:49:03,936  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ec939bd7f56a30e2dea936a20005936b)] -> xpath: //input[@name='callback_2']]
+21:49:05,410  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ec939bd7f56a30e2dea936a20005936b)] -> xpath: //input[@name='callback_2']]
+21:49:06,155  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (ec939bd7f56a30e2dea936a20005936b)] -> xpath: //input[@name='callback_2']]
+21:49:43,154  INFO Tests.Login<strong>{1}</strong>:56 - *********************Logged into home page****************************
+21:52:48,671  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (84a5d38d286713aabbcb96e78043e5fb)] -> xpath: //input[@name='callback_2']]
+21:53:28,790  INFO Tests.Login<strong>{1}</strong>:55 - *********************Logged into home page****************************
+21:55:23,377  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[FirefoxDriver: firefox on WINDOWS (a3be6008-ea38-4d8a-84d2-eb17f2bd9a0a)] -> xpath: //input[@name='callback_2']]
+21:56:03,389  INFO Tests.Login<strong>{1}</strong>:55 - *********************Logged into home page****************************
+21:58:50,199  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (fe694837f394990d3edb6c9b355a6780)] -> xpath: //input[@name='callback_2']]
+21:58:50,971  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (fe694837f394990d3edb6c9b355a6780)] -> xpath: //input[@name='callback_2']]
+21:58:51,367  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (fe694837f394990d3edb6c9b355a6780)] -> xpath: //input[@name='callback_2']]
+21:58:52,202  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (fe694837f394990d3edb6c9b355a6780)] -> xpath: //input[@name='callback_2']]
+21:59:32,208  INFO Tests.Login<strong>{1}</strong>:55 - *********************Logged into home page****************************
+22:03:11,874  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[FirefoxDriver: firefox on WINDOWS (ebdb283c-078c-4262-8e9c-bd385fc2d851)] -> xpath: //input[@name='callback_2']]
+22:03:11,903  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[FirefoxDriver: firefox on WINDOWS (ebdb283c-078c-4262-8e9c-bd385fc2d851)] -> xpath: //input[@name='callback_2']]
+22:03:12,878  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[FirefoxDriver: firefox on WINDOWS (ebdb283c-078c-4262-8e9c-bd385fc2d851)] -> xpath: //input[@name='callback_2']]
+22:25:29,292  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b79524e55179ba3f12eab90c454a8096)] -> xpath: //input[@name='callback_2']]
+22:25:30,021  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b79524e55179ba3f12eab90c454a8096)] -> xpath: //input[@name='callback_2']]
+22:25:31,227  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b79524e55179ba3f12eab90c454a8096)] -> xpath: //input[@name='callback_2']]
+22:25:32,447  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (b79524e55179ba3f12eab90c454a8096)] -> xpath: //input[@name='callback_2']]
+22:26:11,228  INFO Tests.Login<strong>{1}</strong>:59 - *********************Logged into home page****************************
+22:28:23,535  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[FirefoxDriver: firefox on WINDOWS (b35c5e34-1315-45f4-83ff-e58f95245c44)] -> xpath: //input[@name='callback_2']]
+22:34:09,697  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (85d91167d4d09907d8d21f998be21c89)] -> xpath: //input[@name='callback_2']]
+22:34:10,643  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (85d91167d4d09907d8d21f998be21c89)] -> xpath: //input[@name='callback_2']]
+22:34:11,541  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (85d91167d4d09907d8d21f998be21c89)] -> xpath: //input[@name='callback_2']]
+22:34:12,331  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (85d91167d4d09907d8d21f998be21c89)] -> xpath: //input[@name='callback_2']]
+22:36:21,320  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (7e3667c2c392c2a25e94d9cacccc4e16)] -> xpath: //input[@name='callback_2']]
+22:36:22,149  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (7e3667c2c392c2a25e94d9cacccc4e16)] -> xpath: //input[@name='callback_2']]
+22:36:23,133  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (7e3667c2c392c2a25e94d9cacccc4e16)] -> xpath: //input[@name='callback_2']]
+22:36:24,044  INFO Base.BasePage<strong>{1}</strong>:43 - Clicked on [[ChromeDriver: chrome on WINDOWS (7e3667c2c392c2a25e94d9cacccc4e16)] -> xpath: //input[@name='callback_2']]
+22:37:03,134  INFO Tests.Login<strong>{1}</strong>:59 - *********************Logged into home page****************************
+00:11:21,391  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (9a1403073179eac02c0e76f97bcb3c87)] -> xpath: //input[@name='callback_2']]
+00:12:01,406  INFO Tests.LoginTests<strong>{1}</strong>:62 - *********************Logged into home page****************************
+00:12:57,702  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (1539f0e1b42a9dac47d847ad4b3f260a)] -> xpath: //input[@name='callback_2']]
+00:37:57,984  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (f619c20e96eb25bd495f597461f577ca)] -> xpath: //input[@name='callback_2']]
+01:20:59,458  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (f690f120b950d0f7b284a1532e389e3c)] -> xpath: //input[@name='callback_2']]
+01:21:39,478  INFO Tests.LoginTests<strong>{1}</strong>:61 - *********************Logged into home page****************************
+21:31:55,834  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (650071a3198bb865ba24144f01ecad36)] -> xpath: //input[@name='callback_2']]
+21:32:35,862  INFO Tests.LoginTests<strong>{1}</strong>:61 - *********************Logged into home page****************************
+21:33:37,099  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (f5d7688b08935639a49fdf39a8be7da5)] -> xpath: //input[@name='callback_2']]
+21:34:27,219  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (f5d7688b08935639a49fdf39a8be7da5)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:35:21,731  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (da6523be91141d255850a636b4541b59)] -> xpath: //input[@name='callback_2']]
+21:36:02,870  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (da6523be91141d255850a636b4541b59)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
+21:36:03,016  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (da6523be91141d255850a636b4541b59)] -> xpath: //a[@href='/client']]
+21:36:05,954  INFO Tests.LoginTests<strong>{1}</strong>:106 - Client details are displyed properly
+21:36:56,917  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //input[@name='callback_2']]
+21:38:02,279  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+21:38:07,454  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[@href='/dashboard' and text()='Dashboard']]
+21:38:12,774  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[@href='/alerts' and text()='Alerts']]
+21:38:18,044  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[@href='/tests' and text()='Tests']]
+21:38:23,279  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[@href='/variables' and text()='Variables']]
+21:38:28,475  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[@href='/notifi' and text()='Notifications']]
+21:38:36,765  INFO Tests.LoginTests<strong>{1}</strong>:127 - All tabs are accessible properly if English is selected
+21:38:39,920  INFO Base.BasePage<strong>{1}</strong>:47 - Clicked on [[ChromeDriver: chrome on WINDOWS (96420beef679285b9cebb05b40e0cd0e)] -> xpath: //a[starts-with(text(), 'QA_traininguser25')]]
