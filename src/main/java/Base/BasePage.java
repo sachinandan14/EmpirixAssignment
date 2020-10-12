@@ -14,6 +14,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import static Base.TestBase.*;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -65,10 +69,50 @@ public class BasePage {
 		return false;
 		}
 	
+	public static void createFile() {
+		  
+		    try {
+		      File myObj = new File("route.txt");
+		      if (myObj.createNewFile()) {
+		        System.out.println("File created: " + myObj.getName());
+		      } else {
+		        System.out.println("File already exists.");
+		      }
+		    } catch (IOException e) {
+		      System.out.println("An error occurred.");
+		      e.printStackTrace();
+		    }
+		  }
+	
+	public static void WriteToFile(String str) {
+		    try {
+		      FileWriter myWriter = new FileWriter("route.txt");
+		      myWriter.write(str);
+		      myWriter.close();
+		      System.out.println("Successfully wrote to the file.");
+		    } catch (IOException e) {
+		      System.out.println("An error occurred.");
+		      e.printStackTrace();
+		    }
+		  }
 	
 	
-	
+	public static void appendStrToFile(String fileName, 
+			String str) 
+	{ 
+		try { 
 
+			// Open given file in append mode. 
+			BufferedWriter out = new BufferedWriter( 
+					new FileWriter(fileName, true)); 
+			out.write(str); 
+			out.close(); 
+		} 
+		catch (IOException e) { 
+			System.out.println("exception occoured" + e); 
+		} 
+	} 
+		
 	public static void refreshPage() {
 
 		TestBase.getDriver().navigate().refresh();

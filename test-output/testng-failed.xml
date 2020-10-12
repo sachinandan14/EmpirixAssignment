@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="4" guice-stage="DEVELOPMENT" name="Failed suite [Sample Test Suite]" parallel="tests">
-  <test thread-count="4" name="Method Test Cases(failed)" parallel="tests">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tests.LoginTests">
+      <class name="Tests.EXLAssignment">
         <methods>
           <include name="tearDown"/>
-          <include name="verifyAllTabsTest"/>
+          <include name="loginTest"/>
           <include name="setUp"/>
-          <include name="switchProfileLanguageTest"/>
         </methods>
-      </class> <!-- Tests.LoginTests -->
+      </class> <!-- Tests.EXLAssignment -->
     </classes>
-  </test> <!-- Method Test Cases(failed) -->
-</suite> <!-- Failed suite [Sample Test Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

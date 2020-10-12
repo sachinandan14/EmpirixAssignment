@@ -1,4 +1,4 @@
-package Tests;
+/*package Tests;
 
 import static Base.BasePage.waitForElem;
 
@@ -51,13 +51,13 @@ public class LoginTests extends TestBase {
 		
 		//initialize(browserName); 
 		//loginPage.login(prop.getProperty("UserName"), prop.getProperty("Passowrd"));
-		/*
+		
 		 * Properties pro=readProp.readProperties(); String
 		 * browser=pro.getProperty("Browser"); String url=pro.getProperty("Url");
 		 * System.out.println(url);
 		 * 
 		 * // WebDriver driver=initialize(browser); driver.get(url);
-		 */
+		 
 		Log.info("*********************Logged into home page****************************");
 		
 	 
@@ -148,4 +148,4 @@ public class LoginTests extends TestBase {
 	}
 	 
 
-}
+}*/

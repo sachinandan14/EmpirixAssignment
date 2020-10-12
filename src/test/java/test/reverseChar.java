@@ -9,7 +9,9 @@ public class reverseChar {
 		    // Function to reverse the string 
 		    // and preserve the space position 
 		        String str="I am a software Engineer";      
-		        char[] inputArray = str.toCharArray();  
+		        char[] inputArray = str.toCharArray(); 
+		        
+		        System.out.println("Array of character: "+str);
 		        char[] result = new char[inputArray.length];  
 		  
 		        // Mark spaces in result 

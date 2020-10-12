@@ -3,16 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tests.LoginTests">
+      <class name="Tests.EXLAssignment">
         <methods>
           <include name="tearDown"/>
           <include name="loginTest"/>
-          <include name="verifyAllTabsTest"/>
           <include name="setUp"/>
-          <include name="switchProfileLanguageTest"/>
-          <include name="verifyClientDetailsTest"/>
         </methods>
-      </class> <!-- Tests.LoginTests -->
+      </class> <!-- Tests.EXLAssignment -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

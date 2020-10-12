@@ -20,6 +20,7 @@ public class Interview {
 	      hmap.put(4, "Lion");   
 	      hmap.put(5, "Tiger");   
 	      hmap.put(6, "Bear");
+	      hmap.put(6, "Begar");
 	      /* forEach to iterate and display each key and value pair
 	       * of HashMap.    
 	       */  
