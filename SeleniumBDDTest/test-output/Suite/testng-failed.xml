@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="4" name="ChromeTestCases(failed)" parallel="methods">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Tests.Login">
+        <methods>
+          <include name="verifyClientDetailsTest"/>
+          <include name="switchProfileLanguageTest"/>
+          <include name="tearDown"/>
+          <include name="verifyAllTabsTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Tests.Login -->
+    </classes>
+  </test> <!-- ChromeTestCases(failed) -->
+  <test thread-count="4" name="FirefoxTestCases(failed)" parallel="methods">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="Tests.Login">
+        <methods>
+          <include name="loginTest"/>
+          <include name="verifyClientDetailsTest"/>
+          <include name="switchProfileLanguageTest"/>
+          <include name="tearDown"/>
+          <include name="verifyAllTabsTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Tests.Login -->
+    </classes>
+  </test> <!-- FirefoxTestCases(failed) -->
+</suite> <!-- Failed suite [Suite] -->
